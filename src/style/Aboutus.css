@@ -1,0 +1,38 @@
+.aboutus-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .aboutus-banner {
+    background-color: #0046d5; /* Daraz's brand color for demo */
+    color: #ffffff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .aboutus-banner h1 {
+    margin-bottom: 10px;
+  }
+  
+  .aboutus-banner p {
+    font-size: 18px;
+  }
+  
+  .aboutus-content h2 {
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .aboutus-content p, .aboutus-content ul {
+    color: #555;
+    line-height: 1.6;
+  }
+  
+  .aboutus-content ul {
+    list-style-position: inside;
+  }
+  

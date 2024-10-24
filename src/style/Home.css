@@ -1,0 +1,19 @@
+body{
+
+    background-color: brown;
+}
+
+
+
+.image-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 500px; /* Set a fixed height for the container */
+  }
+  
+  .image-container img {
+    height:400px; /* Ensure the image does not exceed the container's height */
+    width: 500px; /* Ensure the image does not exceed the container's width */
+  }
+  
